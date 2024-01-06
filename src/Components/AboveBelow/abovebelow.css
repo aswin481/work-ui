@@ -1,0 +1,47 @@
+
+.above-below-main p {
+    color: white;
+    
+    
+    
+}
+.above-below-main h1 {
+    color: white;
+}
+
+.ab-heading{
+    display: flex;
+    justify-content: center;
+    
+}
+.abpara {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    
+}
+.rating{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+}
+.rating p{
+    display: block;
+}
+.p1{
+    display: block;
+}
+.heading1{
+    height: 30px;
+    text-align: center;
+}
+
+
+@media (min-width:656px){
+    .above-below-main{
+        display: block;
+    }
+}

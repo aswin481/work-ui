@@ -1,0 +1,39 @@
+.main-below p{
+    color: white;
+   
+}
+.main-below{
+    margin-top: 200px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 200px;
+}
+.main-below h3{
+    color: white;
+   
+}
+
+.head{
+ 
+    display: flex;
+  
+    justify-content: center;
+}
+.para{
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+    justify-content: center;
+    margin-top: 20px;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding-bottom: 50px;
+    margin-top: 20px;
+}
